@@ -4,9 +4,9 @@
 
 Function extensions
 
-[![Version](https://img.shields.io/nuget/vpre/Ject.svg)](https://www.nuget.org/packages/Ject)
-[![Downloads](https://img.shields.io/nuget/dt/Ject.svg)](https://www.nuget.org/packages/Ject)
-[![Dependent Libraries](https://img.shields.io/librariesio/dependents/nuget/Ject.svg?label=dependent%20libraries)](https://libraries.io/nuget/Ject)
+[![Version](https://img.shields.io/nuget/vpre/Ject.Reflect.svg)](https://www.nuget.org/packages/Ject.Reflect)
+[![Downloads](https://img.shields.io/nuget/dt/Ject.Reflect.svg)](https://www.nuget.org/packages/Ject.Reflect)
+[![Dependent Libraries](https://img.shields.io/librariesio/dependents/nuget/Ject.Reflect.svg?label=dependent%20libraries)](https://libraries.io/nuget/Ject)
 [![Language](https://img.shields.io/badge/language-C%23-blueviolet.svg)](https://dotnet.microsoft.com/learn/csharp)
 [![Compatibility](https://img.shields.io/badge/compatibility-.NET%20Standard%202.0-blue.svg)]()
 [![License](https://img.shields.io/github/license/sharpyr/Ject.svg)](https://github.com/sharpyr/Ject/LICENSE)
