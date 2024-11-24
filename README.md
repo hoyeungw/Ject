@@ -1,6 +1,8 @@
-![Banner](https://raw.githubusercontent.com/sharpyr/Ject/refs/heads/master/media/ject-banner.svg)
+![Banner](./media/ject-banner.svg)
 
-Color space tools
+[//]: # (![Banner]&#40;https://raw.githubusercontent.com/sharpyr/Ject/refs/heads/master/media/ject-banner.svg&#41;)
+
+Function extensions
 
 [![Version](https://img.shields.io/nuget/vpre/Ject.svg)](https://www.nuget.org/packages/Ject)
 [![Downloads](https://img.shields.io/nuget/dt/Ject.svg)](https://www.nuget.org/packages/Ject)
