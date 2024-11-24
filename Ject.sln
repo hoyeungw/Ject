@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ject.Reflect", "Ject.Reflect\Ject.Reflect.csproj", "{ED80B719-678D-4E35-A06F-7683AFDFBADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ject.Test", "Ject.Test\Ject.Test.csproj", "{E66D6370-85C0-4FC6-B236-7CF0655BDD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED80B719-678D-4E35-A06F-7683AFDFBADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED80B719-678D-4E35-A06F-7683AFDFBADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED80B719-678D-4E35-A06F-7683AFDFBADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED80B719-678D-4E35-A06F-7683AFDFBADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66D6370-85C0-4FC6-B236-7CF0655BDD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66D6370-85C0-4FC6-B236-7CF0655BDD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66D6370-85C0-4FC6-B236-7CF0655BDD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66D6370-85C0-4FC6-B236-7CF0655BDD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6de4a065_002D3786_002D4031_002D939d_002D8ae4455e908c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E66D6370-85C0-4FC6-B236-7CF0655BDD7D::.NETFramework,Version=v4.7.2::Ject.Test.GetMethodsTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E66D6370-85C0-4FC6-B236-7CF0655BDD7D::.NETFramework,Version=v4.7.2::Ject.Test.Strategies.FindMethodStrategies&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E66D6370-85C0-4FC6-B236-7CF0655BDD7D::.NETFramework,Version=v4.7.2::Ject.Test.CreateLambdaTest.AlphaTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

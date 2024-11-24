@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <IsPackable>false</IsPackable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Analys.Deco" Version="0.2.2" />
+    <PackageReference Include="Generic.Math" Version="1.0.2" />
+    <PackageReference Include="NUnit" Version="3.13.2" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
+    <PackageReference Include="Spare" Version="0.2.1" />
+    <PackageReference Include="Valjoux.Strategies" Version="0.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ject.Reflect\Ject.Reflect.csproj" />
+  </ItemGroup>
+</Project>
